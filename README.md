@@ -1,6 +1,12 @@
 # Hi, I'm l44k 👋
 
-I'm learning web development and software testing, with a focus on writing JavaScript that is well tested and easy to maintain. My bachelor's thesis explores AI agents that negotiate and pay each other with blockchain micropayments.
+**Business IT student · Full-stack · AI agents**
+
+I build full-stack apps with TypeScript and Node.js, and my bachelor's thesis explores AI agents that negotiate and pay each other with blockchain micropayments.
+
+📍 Exchange student at PUC-Rio, looking for a **software development internship in Rio de Janeiro or Brazil** from January 2027.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/joonaj%C3%A4rvi)
 
 ## 🛠️ Tech I work with
 
@@ -29,12 +35,18 @@ I'm learning web development and software testing, with a focus on writing JavaS
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 
-## 📂 Other projects
+## 🍜 Restaurant recommender
 
-| Project | What it is |
-| --- | --- |
-| [testausharkat-repo](https://github.com/l44k/testausharkat-repo) | Testing exercises (a calculator and a restaurant app) with automated tests run in a GitHub Actions CI workflow |
-| [testaus-todo](https://github.com/l44k/testaus-todo) | A CRUD to-do web app (Node.js, Express, vanilla JS) for practising unit tests with Vitest and end-to-end tests with Cypress |
+A restaurant recommendation API, built as the final project of a Node.js backend course. Users sign in with Google, rate restaurants they have visited and set their taste preferences. Gemini then uses that taste profile to recommend restaurants in another city.
+
+- Google sign-in with Passport.js (OAuth 2.0) and sessions
+- REST API for reviews (CRUD) and user preferences, stored in MongoDB with Mongoose
+- Recommendations from the Gemini API, based on the user's reviews and preferences
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 ## 🌱 Currently learning
 
