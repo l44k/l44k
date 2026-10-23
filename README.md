@@ -37,7 +37,7 @@ I build full-stack apps with TypeScript and Node.js, and my bachelor's thesis ex
 
 ## 🍜 Restaurant recommender
 
-A restaurant recommendation API, built as the final project of a Node.js backend course. Users sign in with Google, rate restaurants they have visited and set their taste preferences. Gemini then uses that taste profile to recommend restaurants in another city.
+**[restaurant-recommender](https://github.com/l44k/restaurant-recommender)**: a restaurant recommendation API, built as the final project of a Node.js backend course. Users sign in with Google, rate restaurants they have visited and set their taste preferences. Gemini then uses that taste profile to recommend restaurants in another city.
 
 - Google sign-in with Passport.js (OAuth 2.0) and sessions
 - REST API for reviews (CRUD) and user preferences, stored in MongoDB with Mongoose
