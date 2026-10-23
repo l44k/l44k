@@ -1,4 +1,4 @@
-# Hi, I'm l44k 👋
+# Hi, I'm Joona 👋
 
 I'm learning web development and software testing, with a focus on writing JavaScript that is well tested and easy to maintain. My bachelor's thesis explores AI agents that negotiate and pay each other with blockchain micropayments.
 
