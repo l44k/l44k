@@ -1,4 +1,4 @@
-# Hi, I'm Joona 👋
+# Hi, I'm l44k 👋
 
 **Business IT student · Full-stack · AI agents**
 
@@ -52,9 +52,10 @@ I build full-stack apps with TypeScript and Node.js, and my bachelor's thesis ex
 
 **[rota-trip-planner](https://github.com/l44k/rota-trip-planner)** · **[▶ Live demo](https://l44k.github.io/rota-trip-planner/)**: a clickable prototype of an AI trip planner that adapts with you, made for a design course at PUC-Rio. The AI drafts itineraries, flags its own assumptions and proposes a new plan when something changes, but nothing changes without the traveler's approval: *Rota proposes, you decide.* Built almost entirely with AI, on purpose.
 
-## 🌱 Currently learning
+## 💡 Key interests
 
-- Automated testing: unit, integration and end-to-end tests
-- Continuous integration with GitHub Actions
-- Building full-stack web apps with JavaScript
-- AI agents, LLM APIs and micropayments
+- **Micropayments**: payments small enough to price a single API call or LLM answer
+- **Blockchain**: on-chain payments and verification as a trust layer between machines
+- **LLMs**: prompt design, structured output and checking model answers against rules
+- **AI agents**: multi-agent systems that negotiate, pay and deliver on their own
+- **Human-in-the-loop AI**: services where the AI proposes and people decide
