@@ -48,6 +48,10 @@ I build full-stack apps with TypeScript and Node.js, and my bachelor's thesis ex
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
+## 🗺️ Rota trip planner
+
+**[rota-trip-planner](https://github.com/l44k/rota-trip-planner)** · **[▶ Live demo](https://l44k.github.io/rota-trip-planner/)**: a clickable prototype of an AI trip planner that adapts with you, made for a design course at PUC-Rio. The AI drafts itineraries, flags its own assumptions and proposes a new plan when something changes, but nothing changes without the traveler's approval: *Rota proposes, you decide.* Built almost entirely with AI, on purpose.
+
 ## 🌱 Currently learning
 
 - Automated testing: unit, integration and end-to-end tests
