@@ -1,4 +1,4 @@
-# Hi, I'm l44k 👋
+# Hi, I'm Joona 👋
 
 **Business IT student · Full-stack · AI agents**
 
