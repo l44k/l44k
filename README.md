@@ -57,5 +57,7 @@ I build full-stack apps with TypeScript and Node.js, and my bachelor's thesis ex
 - **Micropayments**: payments small enough to price a single API call or LLM answer
 - **Blockchain**: on-chain payments and verification as a trust layer between machines
 - **LLMs**: prompt design, structured output and checking model answers against rules
+- **Web3**: an internet where value moves as easily as data
 - **AI agents**: multi-agent systems that negotiate, pay and deliver on their own
 - **Human-in-the-loop AI**: services where the AI proposes and people decide
+
